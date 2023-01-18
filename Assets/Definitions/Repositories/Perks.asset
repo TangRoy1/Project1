@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1220119be5e845e29cb54b2ddd520e58, type: 3}
+  m_Name: Perks
+  m_EditorClassIdentifier: 
+  _collection:
+  - _id: double-jump
+    _icon: {fileID: 21300000, guid: e724acb77312c46d090e8c71f05a1fef, type: 3}
+    _info: This is Double jump!
+    _price:
+      _itemId: GreenGem
+      _count: 2
+    _cooldown: 5
+  - _id: super-throw
+    _icon: {fileID: 21300000, guid: c44e040974b0b4e1d9215f8214c58c14, type: 3}
+    _info: This is Super Throw!
+    _price:
+      _itemId: GreenGem
+      _count: 10
+    _cooldown: 5
+  - _id: shield
+    _icon: {fileID: 21300000, guid: d1562eec4c08945c5a7bda1bed3ba9f2, type: 3}
+    _info: shield-info
+    _price:
+      _itemId: GreenGem
+      _count: 10
+    _cooldown: 5
+  - _id: "\u0440\u044B\u0432\u043E\u043A"
+    _icon: {fileID: 21300000, guid: d1562eec4c08945c5a7bda1bed3ba9f2, type: 3}
+    _info: shield-info
+    _price:
+      _itemId: GreenGem
+      _count: 10
+    _cooldown: 3

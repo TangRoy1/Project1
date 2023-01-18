@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04feb2a86c474ceca8d7978ac06ab306, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQN5nVsGODsv2C_X6uXW_V5HvtAogb3qUkSndElm3QVL68A_JlU7DaENpJ21ts9njiI9J5TuW0lL5y8/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: menu_title
+    Value: "menu\r"
+  - Key: button_start
+    Value: "start\r"
+  - Key: button_option
+    Value: "options\r"
+  - Key: button_exit
+    Value: "exit\r"
+  - Key: selected_language
+    Value: "Selected language is {0}\r"
+  - Key: button_back
+    Value: "back\r"
+  - Key: button_locales
+    Value: "languages\r"
+  - Key: Health
+    Value: "Health\r"
+  - Key: Speed
+    Value: "Speed\r"
+  - Key: Range Damage
+    Value: "Range Damage\r"
+  - Key: level-up
+    Value: "Upgrade\r"
+  - Key: some-icon
+    Value: "some-icon/resource/1\r"
+  - Key: Critical Damage
+    Value: "Critical Damage\r"
+  - Key: shield-info
+    Value: "Use shield for self protection\r"
+  - Key: crabby-teacher-sentence-0
+    Value: "I can teach you!\r"
+  - Key: crabby-teacher-sentence-1
+    Value: "Good!\r"
+  - Key: crabby-teacher-sentence-2
+    Value: "Let's go!\r"
+  - Key: boss1-dialog-0-0
+    Value: "I will kill you!\r"
+  - Key: boss1-dialog-0-2
+    Value: "NO! I will kill you!\r"
+  - Key: boss1-dialog-1-0
+    Value: "No0000000!!!!!!!!!!\r"
+  - Key: boss1-dialog-1-1
+    Value: I tolld ya!
+  - Key: Loading...
+    Value: ljsdkfnkndkasfv

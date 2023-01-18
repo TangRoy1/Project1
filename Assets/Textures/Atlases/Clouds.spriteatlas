@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clouds
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 27229e0fc75ed4a6b893d53be09fcaea, type: 3}
+    - {fileID: 2800000, guid: 900ab5fe332ea47a09cf1bc58abb2eec, type: 3}
+    - {fileID: 2800000, guid: 8b7cf02448ee741a7a93e9089213f067, type: 3}
+    - {fileID: 2800000, guid: 44905d09c749a41fe8675fea43da2729, type: 3}
+    - {fileID: 2800000, guid: d1aba920895d749c59e11537af39b5dd, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d1aba920895d749c59e11537af39b5dd, type: 3}
+  - {fileID: 21300000, guid: 8b7cf02448ee741a7a93e9089213f067, type: 3}
+  - {fileID: 21300000, guid: 44905d09c749a41fe8675fea43da2729, type: 3}
+  - {fileID: 21300000, guid: 900ab5fe332ea47a09cf1bc58abb2eec, type: 3}
+  - {fileID: 21300000, guid: 27229e0fc75ed4a6b893d53be09fcaea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CloudBig
+  - Cloud2
+  - Cloud3
+  - Cloud1
+  - BG Image
+  m_Tag: Clouds
+  m_IsVariant: 0

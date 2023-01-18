@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 98647a82e608f408d92a84f7ad77b5ff
+  - enabled: 1
+    path: Assets/Scenes/Hud.unity
+    guid: 2cd05c6ff508944c5924eabcfb51ffc0
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: ac118cb69600e4d5f8d75619f4a9c11a
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: dec155b2477944bdda5fc65927fafe46
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 257001abed19644f0b9440439dfef61e
+  - enabled: 1
+    path: Assets/Scenes/LevelLoader.unity
+    guid: aa83f74953406478db4b4249d5bdaa1b
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 60b217097280f4384a0589abed8294cf
+  - enabled: 1
+    path: Assets/Scenes/Level5(Boss).unity
+    guid: 5f418cd2b206a4658b76e64aa8edbeef
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: d01ff9c51217b4214b2bb9f07a41e620
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 5f19ae06e4ecbef419a34abf667d30af
+  - enabled: 1
+    path: Assets/Scenes/MemoryLeakScene.unity
+    guid: 855dd4ee479c84e9d95cf23d8f7b67b9
+  - enabled: 1
+    path: Assets/Scenes/Titr.unity
+    guid: 58bda2f91868f004bb61b584c4cf0488
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: bc117a3fbf6934545b929c43eb57647c,
+      type: 2}
